@@ -1,8 +1,4 @@
-# LZ78 implementation
-# Université de Fribourg, Suisse
-# AUTHOR: Noé Zufferey - noe.zufferey@gmail.com
-# CREATION: april 2018 
-# USAGE: python3 LZ78.py '<string to encode>'
+
 
 import sys
 
